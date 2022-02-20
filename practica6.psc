@@ -1,4 +1,6 @@
 Algoritmo sin_titulo
+*Haciendo cambios en el archivo para el desafío* 
+
 	definir precio,tasa_cambio,precio_en_tasa,sub_total como real
 	definir monto_iva,monto_descuento,billetes,monto_total Como Real
 	definir cantidad,porc_descuento como entero
